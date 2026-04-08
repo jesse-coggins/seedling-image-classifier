@@ -28,6 +28,12 @@ This repository packages work originally completed as part of Western Governors 
 - access to class labels and label metadata
 - loading the trained `.keras` model for inference-oriented inspection
 
+## Selected Visuals
+
+![Seedling report visual 1](assets/report-extracts/report_image_01.png)
+
+![Seedling report visual 2](assets/report-extracts/report_image_02.png)
+
 ## Remaining Limitation
 - the original `images.npy` training array is about 223 MB and exceeds normal GitHub limits, so it is not included in this repo
 
