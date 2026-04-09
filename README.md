@@ -15,9 +15,9 @@ This repository packages work originally completed as part of Western Governors 
 - model evaluation and class labeling
 
 ## Included Files
-- `notebooks/Task-1.ipynb`
+- `notebooks/seedling_cnn_classifier.ipynb`
 - `data/class_names.csv`
-- `data/39af014a165dbbdd9d14eaadbab26cda/labels.csv`
+- `data/seedling_dataset/labels.csv`
 - `data/README.md`
 - `models/seedling_classifier_model.keras`
 - `models/README.md`
