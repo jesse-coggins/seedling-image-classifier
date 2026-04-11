@@ -3,10 +3,10 @@
 ## Overview
 This project applies deep learning to a computer vision classification task involving plant seedlings. The notebook covers image preprocessing, model training, and evaluation for a multi-class image classification problem.
 
-This staged version is set up so the trained CNN artifact is included for inference and inspection, while the oversized raw training array is documented separately rather than committed directly.
+The trained model artifact is included so it can be loaded or inspected without retraining. The raw image training array (~223 MB) exceeds GitHub's file size limits and isn't included — that's documented in `data/README.md`.
 
 ## Coursework Context
-This repository packages work originally completed as part of Western Governors University's (WGU) M.S. in Data Analytics program and reorganizes it into a public portfolio format. Screenshots extracted from the original written submission are preserved in `assets/report-extracts/`.
+This project was completed as part of my M.S. in Data Analytics program at Western Governors University (WGU). Screenshots from the original written submission are preserved in `assets/report-extracts/`.
 
 ## What It Shows
 - image preprocessing for a CNN workflow
@@ -47,3 +47,7 @@ This repository packages work originally completed as part of Western Governors 
 This repo follows a hybrid portfolio approach:
 - include the trained model so reviewers can inspect or load it
 - document the missing training array transparently in `data/README.md`
+
+---
+
+*\* I used Claude (Anthropic) to help organize and stage this coursework into a GitHub portfolio repository. The analysis, code, and results are entirely my own.*
