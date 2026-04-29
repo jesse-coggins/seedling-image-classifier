@@ -5,8 +5,8 @@ This project applies deep learning to a computer vision classification task invo
 
 The trained model artifact is included so it can be loaded or inspected without retraining. The raw image training array (~223 MB) exceeds GitHub's file size limits and isn't included — that's documented in `data/README.md`.
 
-## Coursework Context
-This project was completed as part of my M.S. in Data Analytics program at Western Governors University (WGU). Screenshots from the original written submission are preserved in `assets/report-extracts/`.
+## Academic Context
+Completed during my M.S. in Data Analytics at Western Governors University (WGU), then packaged here as a public portfolio project. Screenshots from the original written submission are preserved in `assets/report-extracts/`.
 
 ## What It Shows
 - image preprocessing for a CNN workflow
